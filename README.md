@@ -4,25 +4,25 @@ Data for my PhD dissertation
 ## Verbs
 
   ### Matching English and Italian verbs
-  target and filler verbs, single csv file
+  Target and filler verbs in a single csv file
   ### Target verbs
-  two csv files for English and Italian, each verb with corpus frequency and Zipf score
+  Two csv files for English and Italian, each verb is annotated with corpus frequency (ukWaC and itWaC) and Zipf score
 
 ## Corpus dObjs
 
   ### Raw nouns
-  text
+  The full list of direct objects for each verb as extracted from ukWaC/itWaC (a separate file for each verb)
   ### Cleaned nouns
-  text
+  The list of direct objects for each verb, cleaned as described in the thesis (a separate file for each verb)
 
 ## Behavioral PISA
 
-  ### stimuli 
-  files with verb-noun1-noun2 for eng and ita (actual stimuli are noun1-noun2, verb is reported here for completeness's sake)
-  ### judgments
-  full judgments provided by 25 people (per language) on a 7-point Likert scale
-  ### scores
-  Behavioral PISA scores computed with ad-hoc script in other repository here (put link!)
+  ### Stimuli 
+  Files with verb-noun1-noun2 for English and Italian (actual stimuli are noun1-noun2, verb is reported here for the sake of completeness)
+  ### Judgments
+  Full judgments provided by 25 people (per language) on a 7-point Likert scale
+  ### Scores
+  Behavioral PISA scores computed with ad-hoc script in [other repository here](https://github.com/giuliacappelli/behavioralPISA)
   
 ## Predictors
 
@@ -36,9 +36,9 @@ Data for my PhD dissertation
 ## Main experiment
 
   ### Stimuli
-  eng and ita csv files (stimuli for Medina experiment)
+  Stimuli used in the behavioral experiments eliciting acceptability judgments about the implicit object construction in English and Italian (2 csv files)
   ### Judgments
-  full judgments provided by 30 people (per language) on a 7-point Likert scale for TARGET sentences
+  Full judgments provided by 30 people (per language) on a 7-point Likert scale for target sentences
 
 __________
 
@@ -46,8 +46,8 @@ __________
 This project is licensed under the MIT License.
 
 ## References
+* my dissertation
 * Medina, Tamara Nicol (2007). Learning which verbs allow object omission: verb semantic selectivity and the implicit object construction (PhD dissertation, Johns Hopkins University).
-* Kim, Najoung; Rawlins, Kyle; Smolensky, Paul (2019). "The complement-adjunct distinction as gradient blends: the case of English prepositional phrases", [lingbuzz/004723](https://ling.auf.net/lingbuzz/004723)
 
 ## Acknowledgments
 Many thanks to 
