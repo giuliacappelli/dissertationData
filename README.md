@@ -1,4 +1,4 @@
-# dissertationData
+# Dissertation Data
 Data for my PhD dissertation
 
 ## Verbs
@@ -39,3 +39,18 @@ Data for my PhD dissertation
   eng and ita csv files (stimuli for Medina experiment)
   ### Judgments
   full judgments provided by 30 people (per language) on a 7-point Likert scale for TARGET sentences
+
+__________
+
+## License
+This project is licensed under the MIT License.
+
+## References
+* Medina, Tamara Nicol (2007). Learning which verbs allow object omission: verb semantic selectivity and the implicit object construction (PhD dissertation, Johns Hopkins University).
+* Kim, Najoung; Rawlins, Kyle; Smolensky, Paul (2019). "The complement-adjunct distinction as gradient blends: the case of English prepositional phrases", [lingbuzz/004723](https://ling.auf.net/lingbuzz/004723)
+
+## Acknowledgments
+Many thanks to 
+* @ellepannitto, my Python fairy
+* @najoungkim, for sharing references that ultimately led to this project
+* the Stack Overflow community, for the many code snippets that saved me from frustration
