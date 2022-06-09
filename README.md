@@ -2,7 +2,11 @@
 Data for my PhD dissertation
 
 ## Corpus dObjs
-list of dobjs for each verb in eng and ita, folder for raw data, folder for manually cleaned data
+
+  ### Raw nouns
+  text
+  ### Cleaned nouns
+  text
 
 ## Behavioral PISA
 
@@ -21,3 +25,10 @@ list of dobjs for each verb in eng and ita, folder for raw data, folder for manu
   Telicity feature of English and Italian verbs, with scores for three telicity tests (2 csv files)
   ### Manner specification
   Manner specification feature of English and Italian verbs (2 csv files)
+  
+## Main experiment
+
+  ### Stimuli
+  eng and ita csv files (stimuli for Medina experiment)
+  ### Judgments
+  full judgments provided by 30 people (per language) on a 7-point Likert scale
