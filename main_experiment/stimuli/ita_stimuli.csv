@@ -1,0 +1,321 @@
+ids,type,verb,dObj,perfective,iterative,sentence
+stim2,CONTROL,rompere,yes,yes,no,Sara aveva rotto un vaso.
+stim4,CONTROL,rompere,yes,no,no,Piero stava rompendo un vaso.
+stim10,CONTROL,costruire,yes,yes,no,Luca aveva costruito una casa.
+stim12,CONTROL,costruire,yes,no,no,Luca stava costruendo una casa.
+stim18,CONTROL,spaccare,yes,yes,no,Carla aveva spaccato un tronco.
+stim20,CONTROL,spaccare,yes,no,no,Luca stava spaccando un tronco.
+stim26,CONTROL,pulire,yes,yes,no,Giulia aveva pulito un tavolo.
+stim28,CONTROL,pulire,yes,no,no,Carla stava pulendo un tavolo.
+stim34,CONTROL,cucinare,yes,yes,no,Marta aveva cucinato la cena.
+stim36,CONTROL,cucinare,yes,no,no,Maria stava cucinando la cena.
+stim42,CONTROL,tagliare,yes,yes,no,Piero aveva tagliato della carta.
+stim44,CONTROL,tagliare,yes,no,no,Paolo stava tagliando della carta.
+stim50,CONTROL,bere,yes,yes,no,Maria aveva bevuto del succo.
+stim52,CONTROL,bere,yes,no,no,Carla stava bevendo del succo.
+stim58,CONTROL,mangiare,yes,yes,no,Luca aveva mangiato della pizza.
+stim60,CONTROL,mangiare,yes,no,no,Paolo stava mangiando della pizza.
+stim66,CONTROL,ricamare,yes,yes,no,Luca aveva ricamato un arazzo.
+stim68,CONTROL,ricamare,yes,no,no,Paolo stava ricamando un arazzo.
+stim74,CONTROL,versare,yes,yes,no,Maria aveva versato del vino.
+stim76,CONTROL,versare,yes,no,no,Sara stava versando del vino.
+stim82,CONTROL,cucire,yes,yes,no,Maria aveva cucito una tenda.
+stim84,CONTROL,cucire,yes,no,no,Sara stava cucendo una tenda.
+stim90,CONTROL,rubare,yes,yes,no,Piero aveva rubato dei soldi.
+stim92,CONTROL,rubare,yes,no,no,Paolo stava rubando dei soldi.
+stim98,CONTROL,lavare,yes,yes,no,Maria aveva lavato una macchina.
+stim100,CONTROL,lavare,yes,no,no,Marta stava lavando una macchina.
+stim106,CONTROL,guardare,yes,yes,no,Giulia aveva guardato un film.
+stim108,CONTROL,guardare,yes,no,no,Paolo stava guardando un film.
+stim114,CONTROL,scrivere,yes,yes,no,Sara aveva scritto una lettera.
+stim116,CONTROL,scrivere,yes,no,no,Luca stava scrivendo una lettera.
+stim122,CONTROL,decapitare,yes,yes,no,Gianni aveva decapitato un prigioniero.
+stim124,CONTROL,decapitare,yes,no,no,Luca stava decapitando un prigioniero.
+stim130,CONTROL,divorare,yes,yes,no,Carla aveva divorato un pollo arrosto.
+stim132,CONTROL,divorare,yes,no,no,Gianni stava divorando un pollo arrosto.
+stim138,CONTROL,scarabocchiare,yes,yes,no,Franco aveva scarabocchiato un omino.
+stim140,CONTROL,scarabocchiare,yes,no,no,Luca stava scarabocchiando un omino.
+stim146,CONTROL,uccidere,yes,yes,no,Luca aveva ucciso dei parassiti.
+stim148,CONTROL,uccidere,yes,no,no,Marta stava uccidendo dei parassiti.
+stim154,CONTROL,accoltellare,yes,yes,no,Sara aveva accoltellato un uomo.
+stim156,CONTROL,accoltellare,yes,no,no,Sara stava accoltellando un uomo.
+stim162,CONTROL,avvelenare,yes,yes,no,Carla aveva avvelenato una pianta.
+stim164,CONTROL,avvelenare,yes,no,no,Marta stava avvelenando una pianta.
+stim170,CONTROL,firmare,yes,yes,no,Luca aveva firmato un documento.
+stim172,CONTROL,firmare,yes,no,no,Marta stava firmando un documento.
+stim178,CONTROL,sorseggiare,yes,yes,no,Gianni aveva sorseggiato dell’acqua.
+stim180,CONTROL,sorseggiare,yes,no,no,Giulia stava sorseggiando dell’acqua.
+stim186,CONTROL,fumare,yes,yes,no,Luca aveva fumato una sigaretta.
+stim188,CONTROL,fumare,yes,no,no,Franco stava fumando una sigaretta.
+stim194,CONTROL,trangugiare,yes,yes,no,Carla aveva trangugiato una birra.
+stim196,CONTROL,trangugiare,yes,no,no,Luca stava trangugiando una birra.
+stim202,CONTROL,lucidare,yes,yes,no,Franco aveva lucidato una spada.
+stim204,CONTROL,lucidare,yes,no,no,Paolo stava lucidando una spada.
+stim210,CONTROL,insegnare,yes,yes,no,Marta aveva insegnato linguistica.
+stim212,CONTROL,insegnare,yes,no,no,Carla stava insegnando linguistica.
+stim218,CONTROL,cantare,yes,yes,no,Sara aveva cantato un inno.
+stim220,CONTROL,cantare,yes,no,no,Marta stava cantando un inno.
+stim226,CONTROL,canticchiare,yes,yes,no,Gianni aveva canticchiato una ninna-nanna.
+stim228,CONTROL,canticchiare,yes,no,no,Paolo stava canticchiando una ninna-nanna.
+stim234,CONTROL,affettare,yes,yes,no,Carla aveva affettato una torta.
+stim236,CONTROL,affettare,yes,no,no,Paolo stava affettando una torta.
+stim1,CONTROL,rompere,yes,yes,yes,Giulia aveva rotto un vaso di nuovo.
+stim3,CONTROL,rompere,yes,no,yes,Marta stava rompendo un vaso di nuovo.
+stim9,CONTROL,costruire,yes,yes,yes,Paolo aveva costruito una casa di nuovo.
+stim11,CONTROL,costruire,yes,no,yes,Marta stava costruendo una casa di nuovo.
+stim17,CONTROL,spaccare,yes,yes,yes,Carla aveva spaccato un tronco di nuovo.
+stim19,CONTROL,spaccare,yes,no,yes,Maria stava spaccando un tronco di nuovo.
+stim25,CONTROL,pulire,yes,yes,yes,Sara aveva pulito un tavolo di nuovo.
+stim27,CONTROL,pulire,yes,no,yes,Gianni stava pulendo un tavolo di nuovo.
+stim33,CONTROL,cucinare,yes,yes,yes,Franco aveva cucinato la cena di nuovo.
+stim35,CONTROL,cucinare,yes,no,yes,Giulia stava cucinando la cena di nuovo.
+stim41,CONTROL,tagliare,yes,yes,yes,Luca aveva tagliato della carta di nuovo.
+stim43,CONTROL,tagliare,yes,no,yes,Sara stava tagliando della carta di nuovo.
+stim49,CONTROL,bere,yes,yes,yes,Carla aveva bevuto del succo di nuovo.
+stim51,CONTROL,bere,yes,no,yes,Paolo stava bevendo del succo di nuovo.
+stim57,CONTROL,mangiare,yes,yes,yes,Gianni aveva mangiato della pizza di nuovo.
+stim59,CONTROL,mangiare,yes,no,yes,Marta stava mangiando della pizza di nuovo.
+stim65,CONTROL,ricamare,yes,yes,yes,Franco aveva ricamato un arazzo di nuovo.
+stim67,CONTROL,ricamare,yes,no,yes,Paolo stava ricamando un arazzo di nuovo.
+stim73,CONTROL,versare,yes,yes,yes,Carla aveva versato del vino di nuovo.
+stim75,CONTROL,versare,yes,no,yes,Carla stava versando del vino di nuovo.
+stim81,CONTROL,cucire,yes,yes,yes,Franco aveva cucito una tenda di nuovo.
+stim83,CONTROL,cucire,yes,no,yes,Franco stava cucendo una tenda di nuovo.
+stim89,CONTROL,rubare,yes,yes,yes,Marta aveva rubato dei soldi di nuovo.
+stim91,CONTROL,rubare,yes,no,yes,Paolo stava rubando dei soldi di nuovo.
+stim97,CONTROL,lavare,yes,yes,yes,Franco aveva lavato una macchina di nuovo.
+stim99,CONTROL,lavare,yes,no,yes,Piero stava lavando una macchina di nuovo.
+stim105,CONTROL,guardare,yes,yes,yes,Gianni aveva guardato un film di nuovo.
+stim107,CONTROL,guardare,yes,no,yes,Luca stava guardando un film di nuovo.
+stim113,CONTROL,scrivere,yes,yes,yes,Sara aveva scritto una lettera di nuovo.
+stim115,CONTROL,scrivere,yes,no,yes,Giulia stava scrivendo una lettera di nuovo.
+stim121,CONTROL,decapitare,yes,yes,yes,Piero aveva decapitato un prigioniero di nuovo.
+stim123,CONTROL,decapitare,yes,no,yes,Luca stava decapitando un prigioniero di nuovo.
+stim129,CONTROL,divorare,yes,yes,yes,Franco aveva divorato un pollo arrosto di nuovo.
+stim131,CONTROL,divorare,yes,no,yes,Gianni stava divorando un pollo arrosto di nuovo.
+stim137,CONTROL,scarabocchiare,yes,yes,yes,Gianni aveva scarabocchiato un omino di nuovo.
+stim139,CONTROL,scarabocchiare,yes,no,yes,Giulia stava scarabocchiando un omino di nuovo.
+stim145,CONTROL,uccidere,yes,yes,yes,Sara aveva ucciso dei parassiti di nuovo.
+stim147,CONTROL,uccidere,yes,no,yes,Carla stava uccidendo dei parassiti di nuovo.
+stim153,CONTROL,accoltellare,yes,yes,yes,Gianni aveva accoltellato un uomo di nuovo.
+stim155,CONTROL,accoltellare,yes,no,yes,Carla stava accoltellando un uomo di nuovo.
+stim161,CONTROL,avvelenare,yes,yes,yes,Carla aveva avvelenato una pianta di nuovo.
+stim163,CONTROL,avvelenare,yes,no,yes,Marta stava avvelenando una pianta di nuovo.
+stim169,CONTROL,firmare,yes,yes,yes,Sara aveva firmato un documento di nuovo.
+stim171,CONTROL,firmare,yes,no,yes,Gianni stava firmando un documento di nuovo.
+stim177,CONTROL,sorseggiare,yes,yes,yes,Luca aveva sorseggiato dell’acqua di nuovo.
+stim179,CONTROL,sorseggiare,yes,no,yes,Franco stava sorseggiando dell’acqua di nuovo.
+stim185,CONTROL,fumare,yes,yes,yes,Carla aveva fumato una sigaretta di nuovo.
+stim187,CONTROL,fumare,yes,no,yes,Piero stava fumando una sigaretta di nuovo.
+stim193,CONTROL,trangugiare,yes,yes,yes,Sara aveva trangugiato una birra di nuovo.
+stim195,CONTROL,trangugiare,yes,no,yes,Sara stava trangugiando una birra di nuovo.
+stim201,CONTROL,lucidare,yes,yes,yes,Piero aveva lucidato una spada di nuovo.
+stim203,CONTROL,lucidare,yes,no,yes,Giulia stava lucidando una spada di nuovo.
+stim209,CONTROL,insegnare,yes,yes,yes,Franco aveva insegnato linguistica di nuovo.
+stim211,CONTROL,insegnare,yes,no,yes,Gianni stava insegnando linguistica di nuovo.
+stim217,CONTROL,cantare,yes,yes,yes,Marta aveva cantato un inno di nuovo.
+stim219,CONTROL,cantare,yes,no,yes,Gianni stava cantando un inno di nuovo.
+stim225,CONTROL,canticchiare,yes,yes,yes,Franco aveva canticchiato una ninna-nanna di nuovo.
+stim227,CONTROL,canticchiare,yes,no,yes,Maria stava canticchiando una ninna-nanna di nuovo.
+stim233,CONTROL,affettare,yes,yes,yes,Piero aveva affettato una torta di nuovo.
+stim235,CONTROL,affettare,yes,no,yes,Piero stava affettando una torta di nuovo.
+stim5,EXP,rompere,no,yes,yes,Paolo aveva rotto di nuovo.
+stim6,EXP,rompere,no,yes,no,Piero aveva rotto.
+stim7,EXP,rompere,no,no,yes,Luca stava rompendo di nuovo.
+stim8,EXP,rompere,no,no,no,Paolo stava rompendo.
+stim13,EXP,costruire,no,yes,yes,Gianni aveva costruito di nuovo.
+stim14,EXP,costruire,no,yes,no,Marta aveva costruito.
+stim15,EXP,costruire,no,no,yes,Franco stava costruendo di nuovo.
+stim16,EXP,costruire,no,no,no,Sara stava costruendo.
+stim21,EXP,spaccare,no,yes,yes,Marta aveva spaccato di nuovo.
+stim22,EXP,spaccare,no,yes,no,Gianni aveva spaccato.
+stim23,EXP,spaccare,no,no,yes,Gianni stava spaccando di nuovo.
+stim24,EXP,spaccare,no,no,no,Giulia stava spaccando.
+stim29,EXP,pulire,no,yes,yes,Piero aveva pulito di nuovo.
+stim30,EXP,pulire,no,yes,no,Sara aveva pulito.
+stim31,EXP,pulire,no,no,yes,Paolo stava pulendo di nuovo.
+stim32,EXP,pulire,no,no,no,Luca stava pulendo.
+stim37,EXP,cucinare,no,yes,yes,Franco aveva cucinato di nuovo.
+stim38,EXP,cucinare,no,yes,no,Piero aveva cucinato.
+stim39,EXP,cucinare,no,no,yes,Franco stava cucinando di nuovo.
+stim40,EXP,cucinare,no,no,no,Maria stava cucinando.
+stim45,EXP,tagliare,no,yes,yes,Piero aveva tagliato di nuovo.
+stim46,EXP,tagliare,no,yes,no,Luca aveva tagliato.
+stim47,EXP,tagliare,no,no,yes,Maria stava tagliando di nuovo.
+stim48,EXP,tagliare,no,no,no,Marta stava tagliando.
+stim53,EXP,bere,no,yes,yes,Sara aveva bevuto di nuovo.
+stim54,EXP,bere,no,yes,no,Maria aveva bevuto.
+stim55,EXP,bere,no,no,yes,Giulia stava bevendo di nuovo.
+stim56,EXP,bere,no,no,no,Giulia stava bevendo.
+stim61,EXP,mangiare,no,yes,yes,Paolo aveva mangiato di nuovo.
+stim62,EXP,mangiare,no,yes,no,Sara aveva mangiato.
+stim63,EXP,mangiare,no,no,yes,Franco stava mangiando di nuovo.
+stim64,EXP,mangiare,no,no,no,Sara stava mangiando.
+stim69,EXP,ricamare,no,yes,yes,Carla aveva ricamato di nuovo.
+stim70,EXP,ricamare,no,yes,no,Giulia aveva ricamato.
+stim71,EXP,ricamare,no,no,yes,Franco stava ricamando di nuovo.
+stim72,EXP,ricamare,no,no,no,Luca stava ricamando.
+stim77,EXP,versare,no,yes,yes,Paolo aveva versato di nuovo.
+stim78,EXP,versare,no,yes,no,Maria aveva versato.
+stim79,EXP,versare,no,no,yes,Franco stava versando di nuovo.
+stim80,EXP,versare,no,no,no,Marta stava versando.
+stim85,EXP,cucire,no,yes,yes,Luca aveva cucito di nuovo.
+stim86,EXP,cucire,no,yes,no,Franco aveva cucito.
+stim87,EXP,cucire,no,no,yes,Marta stava cucendo di nuovo.
+stim88,EXP,cucire,no,no,no,Gianni stava cucendo.
+stim93,EXP,rubare,no,yes,yes,Carla aveva rubato di nuovo.
+stim94,EXP,rubare,no,yes,no,Sara aveva rubato.
+stim95,EXP,rubare,no,no,yes,Maria stava rubando di nuovo.
+stim96,EXP,rubare,no,no,no,Marta stava rubando.
+stim101,EXP,lavare,no,yes,yes,Franco aveva lavato di nuovo.
+stim102,EXP,lavare,no,yes,no,Giulia aveva lavato.
+stim103,EXP,lavare,no,no,yes,Luca stava lavando di nuovo.
+stim104,EXP,lavare,no,no,no,Giulia stava lavando.
+stim109,EXP,guardare,no,yes,yes,Gianni aveva guardato di nuovo.
+stim110,EXP,guardare,no,yes,no,Gianni aveva guardato.
+stim111,EXP,guardare,no,no,yes,Luca stava guardando di nuovo.
+stim112,EXP,guardare,no,no,no,Franco stava guardando.
+stim117,EXP,scrivere,no,yes,yes,Marta aveva scritto di nuovo.
+stim118,EXP,scrivere,no,yes,no,Giulia aveva scritto.
+stim119,EXP,scrivere,no,no,yes,Carla stava scrivendo di nuovo.
+stim120,EXP,scrivere,no,no,no,Sara stava scrivendo.
+stim125,EXP,decapitare,no,yes,yes,Paolo aveva decapitato di nuovo.
+stim126,EXP,decapitare,no,yes,no,Giulia aveva decapitato.
+stim127,EXP,decapitare,no,no,yes,Paolo stava decapitando di nuovo.
+stim128,EXP,decapitare,no,no,no,Piero stava decapitando.
+stim133,EXP,divorare,no,yes,yes,Sara aveva divorato di nuovo.
+stim134,EXP,divorare,no,yes,no,Franco aveva divorato.
+stim135,EXP,divorare,no,no,yes,Marta stava divorando di nuovo.
+stim136,EXP,divorare,no,no,no,Carla stava divorando.
+stim141,EXP,scarabocchiare,no,yes,yes,Franco aveva scarabocchiato di nuovo.
+stim142,EXP,scarabocchiare,no,yes,no,Marta aveva scarabocchiato.
+stim143,EXP,scarabocchiare,no,no,yes,Paolo stava scarabocchiando di nuovo.
+stim144,EXP,scarabocchiare,no,no,no,Franco stava scarabocchiando.
+stim149,EXP,uccidere,no,yes,yes,Giulia aveva ucciso di nuovo.
+stim150,EXP,uccidere,no,yes,no,Giulia aveva ucciso.
+stim151,EXP,uccidere,no,no,yes,Carla stava uccidendo di nuovo.
+stim152,EXP,uccidere,no,no,no,Maria stava uccidendo.
+stim157,EXP,accoltellare,no,yes,yes,Paolo aveva accoltellato di nuovo.
+stim158,EXP,accoltellare,no,yes,no,Sara aveva accoltellato.
+stim159,EXP,accoltellare,no,no,yes,Sara stava accoltellando di nuovo.
+stim160,EXP,accoltellare,no,no,no,Marta stava accoltellando.
+stim165,EXP,avvelenare,no,yes,yes,Franco aveva avvelenato di nuovo.
+stim166,EXP,avvelenare,no,yes,no,Maria aveva avvelenato.
+stim167,EXP,avvelenare,no,no,yes,Giulia stava avvelenando di nuovo.
+stim168,EXP,avvelenare,no,no,no,Luca stava avvelenando.
+stim173,EXP,firmare,no,yes,yes,Marta aveva firmato di nuovo.
+stim174,EXP,firmare,no,yes,no,Sara aveva firmato.
+stim175,EXP,firmare,no,no,yes,Piero stava firmando di nuovo.
+stim176,EXP,firmare,no,no,no,Maria stava firmando.
+stim181,EXP,sorseggiare,no,yes,yes,Marta aveva sorseggiato di nuovo.
+stim182,EXP,sorseggiare,no,yes,no,Piero aveva sorseggiato.
+stim183,EXP,sorseggiare,no,no,yes,Maria stava sorseggiando di nuovo.
+stim184,EXP,sorseggiare,no,no,no,Sara stava sorseggiando.
+stim189,EXP,fumare,no,yes,yes,Marta aveva fumato di nuovo.
+stim190,EXP,fumare,no,yes,no,Luca aveva fumato.
+stim191,EXP,fumare,no,no,yes,Carla stava fumando di nuovo.
+stim192,EXP,fumare,no,no,no,Gianni stava fumando.
+stim197,EXP,trangugiare,no,yes,yes,Sara aveva trangugiato di nuovo.
+stim198,EXP,trangugiare,no,yes,no,Giulia aveva trangugiato.
+stim199,EXP,trangugiare,no,no,yes,Sara stava trangugiando di nuovo.
+stim200,EXP,trangugiare,no,no,no,Franco stava trangugiando.
+stim205,EXP,lucidare,no,yes,yes,Luca aveva lucidato di nuovo.
+stim206,EXP,lucidare,no,yes,no,Giulia aveva lucidato.
+stim207,EXP,lucidare,no,no,yes,Sara stava lucidando di nuovo.
+stim208,EXP,lucidare,no,no,no,Carla stava lucidando.
+stim213,EXP,insegnare,no,yes,yes,Franco aveva insegnato di nuovo.
+stim214,EXP,insegnare,no,yes,no,Paolo aveva insegnato.
+stim215,EXP,insegnare,no,no,yes,Sara stava insegnando di nuovo.
+stim216,EXP,insegnare,no,no,no,Marta stava insegnando.
+stim221,EXP,cantare,no,yes,yes,Franco aveva cantato di nuovo.
+stim222,EXP,cantare,no,yes,no,Franco aveva cantato.
+stim223,EXP,cantare,no,no,yes,Franco stava cantando di nuovo.
+stim224,EXP,cantare,no,no,no,Maria stava cantando.
+stim229,EXP,canticchiare,no,yes,yes,Franco aveva canticchiato di nuovo.
+stim230,EXP,canticchiare,no,yes,no,Sara aveva canticchiato.
+stim231,EXP,canticchiare,no,no,yes,Paolo stava canticchiando di nuovo.
+stim232,EXP,canticchiare,no,no,no,Marta stava canticchiando.
+stim237,EXP,affettare,no,yes,yes,Paolo aveva affettato di nuovo.
+stim238,EXP,affettare,no,yes,no,Giulia aveva affettato.
+stim239,EXP,affettare,no,no,yes,Luca stava affettando di nuovo.
+stim240,EXP,affettare,no,no,no,Gianni stava affettando.
+stim246,FILLER,dormire,no,yes,no,Piero aveva dormito.
+stim248,FILLER,dormire,no,no,no,Piero stava dormendo.
+stim254,FILLER,barcollare,no,yes,no,Giulia aveva barcollato.
+stim256,FILLER,barcollare,no,no,no,Giulia stava barcollando.
+stim262,FILLER,bussare,no,yes,no,Gianni aveva bussato.
+stim264,FILLER,bussare,no,no,no,Giulia stava bussando.
+stim270,FILLER,zoppicare,no,yes,no,Paolo aveva zoppicato.
+stim272,FILLER,zoppicare,no,no,no,Luca stava zoppicando.
+stim278,FILLER,digiunare,no,yes,no,Maria aveva digiunato.
+stim280,FILLER,digiunare,no,no,no,Paolo stava digiunando.
+stim286,FILLER,ridere,no,yes,no,Sara aveva riso.
+stim288,FILLER,ridere,no,no,no,Sara stava ridendo.
+stim294,FILLER,applaudire,no,yes,no,Paolo aveva applaudito.
+stim296,FILLER,applaudire,no,no,no,Sara stava applaudendo.
+stim302,FILLER,sorridere,no,yes,no,Paolo aveva sorriso.
+stim304,FILLER,sorridere,no,no,no,Sara stava sorridendo.
+stim310,FILLER,urlare,no,yes,no,Luca aveva urlato.
+stim312,FILLER,urlare,no,no,no,Sara stava urlando.
+stim318,FILLER,riposarsi,no,yes,no,Piero si è riposato.
+stim320,FILLER,riposarsi,no,no,no,Luca si stava riposando.
+stim245,FILLER,dormire,no,yes,yes,Carla aveva dormito di nuovo.
+stim247,FILLER,dormire,no,no,yes,Maria stava dormendo di nuovo.
+stim253,FILLER,barcollare,no,yes,yes,Giulia aveva barcollato di nuovo.
+stim255,FILLER,barcollare,no,no,yes,Maria stava barcollando di nuovo.
+stim261,FILLER,bussare,no,yes,yes,Franco aveva bussato di nuovo.
+stim263,FILLER,bussare,no,no,yes,Luca stava bussando di nuovo.
+stim269,FILLER,zoppicare,no,yes,yes,Piero aveva zoppicato di nuovo.
+stim271,FILLER,zoppicare,no,no,yes,Maria stava zoppicando di nuovo.
+stim277,FILLER,digiunare,no,yes,yes,Piero aveva digiunato di nuovo.
+stim279,FILLER,digiunare,no,no,yes,Gianni stava digiunando di nuovo.
+stim285,FILLER,ridere,no,yes,yes,Paolo aveva riso di nuovo.
+stim287,FILLER,ridere,no,no,yes,Piero stava ridendo di nuovo.
+stim293,FILLER,applaudire,no,yes,yes,Piero aveva applaudito di nuovo.
+stim295,FILLER,applaudire,no,no,yes,Carla stava applaudendo di nuovo.
+stim301,FILLER,sorridere,no,yes,yes,Maria aveva sorriso di nuovo.
+stim303,FILLER,sorridere,no,no,yes,Carla stava sorridendo di nuovo.
+stim309,FILLER,urlare,no,yes,yes,Marta aveva urlato di nuovo.
+stim311,FILLER,urlare,no,no,yes,Franco stava urlando di nuovo.
+stim317,FILLER,riposarsi,no,yes,yes,Sara si è riposata di nuovo.
+stim319,FILLER,riposarsi,no,no,yes,Gianni si stava riposando di nuovo.
+stim241,FILLER,dormire,yes,yes,yes,Carla aveva dormito un cuscino di nuovo.
+stim242,FILLER,dormire,yes,yes,no,Giulia aveva dormito un cuscino.
+stim243,FILLER,dormire,yes,no,yes,Luca stava dormendo un cuscino di nuovo.
+stim244,FILLER,dormire,yes,no,no,Sara stava dormendo un cuscino.
+stim249,FILLER,barcollare,yes,yes,yes,Paolo aveva barcollato il marciapiede di nuovo.
+stim250,FILLER,barcollare,yes,yes,no,Maria aveva barcollato il marciapiede.
+stim251,FILLER,barcollare,yes,no,yes,Marta stava barcollando il marciapiede di nuovo.
+stim252,FILLER,barcollare,yes,no,no,Giulia stava barcollando il marciapiede.
+stim257,FILLER,bussare,yes,yes,yes,Paolo aveva bussato una porta di nuovo.
+stim258,FILLER,bussare,yes,yes,no,Franco aveva bussato una porta.
+stim259,FILLER,bussare,yes,no,yes,Piero stava bussando una porta di nuovo.
+stim260,FILLER,bussare,yes,no,no,Piero stava bussando una porta.
+stim265,FILLER,zoppicare,yes,yes,yes,Sara aveva zoppicato una strada di nuovo.
+stim266,FILLER,zoppicare,yes,yes,no,Maria aveva zoppicato una strada.
+stim267,FILLER,zoppicare,yes,no,yes,Paolo stava zoppicando una strada di nuovo.
+stim268,FILLER,zoppicare,yes,no,no,Luca stava zoppicando una strada.
+stim273,FILLER,digiunare,yes,yes,yes,Marta aveva digiunato del sushi di nuovo.
+stim274,FILLER,digiunare,yes,yes,no,Marta aveva digiunato del sushi.
+stim275,FILLER,digiunare,yes,no,yes,Sara stava digiunando del sushi di nuovo.
+stim276,FILLER,digiunare,yes,no,no,Giulia stava digiunando del sushi.
+stim281,FILLER,ridere,yes,yes,yes,Giulia aveva riso una barzelletta di nuovo.
+stim282,FILLER,ridere,yes,yes,no,Marta aveva riso una barzelletta.
+stim283,FILLER,ridere,yes,no,yes,Giulia stava ridendo una barzelletta di nuovo.
+stim284,FILLER,ridere,yes,no,no,Luca stava ridendo una barzelletta.
+stim289,FILLER,applaudire,yes,yes,yes,Marta aveva applaudito uno spettacolo di nuovo.
+stim290,FILLER,applaudire,yes,yes,no,Marta aveva applaudito uno spettacolo.
+stim291,FILLER,applaudire,yes,no,yes,Marta stava applaudendo uno spettacolo di nuovo.
+stim292,FILLER,applaudire,yes,no,no,Giulia stava applaudendo uno spettacolo.
+stim297,FILLER,sorridere,yes,yes,yes,Sara aveva sorriso un amico di nuovo.
+stim298,FILLER,sorridere,yes,yes,no,Gianni aveva sorriso un amico.
+stim299,FILLER,sorridere,yes,no,yes,Giulia stava sorridendo un amico di nuovo.
+stim300,FILLER,sorridere,yes,no,no,Carla stava sorridendo un amico.
+stim305,FILLER,urlare,yes,yes,yes,Gianni aveva urlato un ragno di nuovo.
+stim306,FILLER,urlare,yes,yes,no,Paolo aveva urlato un ragno.
+stim307,FILLER,urlare,yes,no,yes,Carla stava urlando un ragno di nuovo.
+stim308,FILLER,urlare,yes,no,no,Gianni stava urlando un ragno.
+stim313,FILLER,riposarsi,yes,yes,yes,Luca si è riposato un letto di nuovo.
+stim314,FILLER,riposarsi,yes,yes,no,Piero si è riposato un letto.
+stim315,FILLER,riposarsi,yes,no,yes,Maria si stava riposando un letto di nuovo.
+stim316,FILLER,riposarsi,yes,no,no,Luca si stava riposando un letto.
