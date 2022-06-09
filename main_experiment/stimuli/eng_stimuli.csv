@@ -1,0 +1,321 @@
+ids,kind,verb,dObj,perf,iter,sentence
+stim2,CONTROL,break,yes,yes,no,Paul had broken a vase.
+stim4,CONTROL,break,yes,no,no,Sarah was breaking a vase.
+stim10,CONTROL,build,yes,yes,no,Betty had built a house.
+stim12,CONTROL,build,yes,no,no,Betty was building a house.
+stim18,CONTROL,chop,yes,yes,no,Tom had chopped a log.
+stim20,CONTROL,chop,yes,no,no,Sarah was chopping a log.
+stim26,CONTROL,clean,yes,yes,no,Sam had cleaned a table.
+stim28,CONTROL,clean,yes,no,no,Tom was cleaning a table.
+stim34,CONTROL,cook,yes,yes,no,Mary had cooked dinner.
+stim36,CONTROL,cook,yes,no,no,Diana was cooking dinner.
+stim42,CONTROL,cut,yes,yes,no,Mary had cut some paper.
+stim44,CONTROL,cut,yes,no,no,Sam was cutting some paper.
+stim50,CONTROL,drink,yes,yes,no,Sarah had drunk juice.
+stim52,CONTROL,drink,yes,no,no,Mary was drinking juice.
+stim58,CONTROL,eat,yes,yes,no,Sean had eaten pizza.
+stim60,CONTROL,eat,yes,no,no,John was eating pizza.
+stim66,CONTROL,embroider,yes,yes,no,Clara had embroidered a tapestry.
+stim68,CONTROL,embroider,yes,no,no,Sam was embroidering a tapestry.
+stim74,CONTROL,pour,yes,yes,no,Betty had poured wine.
+stim76,CONTROL,pour,yes,no,no,Sam was pouring wine.
+stim82,CONTROL,sew,yes,yes,no,Betty had sewn a curtain.
+stim84,CONTROL,sew,yes,no,no,John was sewing a curtain.
+stim90,CONTROL,steal,yes,yes,no,Tom had stolen money.
+stim92,CONTROL,steal,yes,no,no,Sean was stealing money.
+stim98,CONTROL,wash,yes,yes,no,Betty had washed a car.
+stim100,CONTROL,wash,yes,no,no,Clara was washing a car.
+stim106,CONTROL,watch,yes,yes,no,Clara had watched a movie.
+stim108,CONTROL,watch,yes,no,no,Sean was watching a movie.
+stim114,CONTROL,write,yes,yes,no,Sam had written a letter.
+stim116,CONTROL,write,yes,no,no,Paul was writing a letter.
+stim122,CONTROL,behead,yes,yes,no,Tom had beheaded a prisoner.
+stim124,CONTROL,behead,yes,no,no,Tom was beheading a prisoner.
+stim130,CONTROL,devour,yes,yes,no,Mary had devoured a roasted chicken.
+stim132,CONTROL,devour,yes,no,no,Paul was devouring a roasted chicken.
+stim138,CONTROL,doodle,yes,yes,no,Sean had doodled a stick man.
+stim140,CONTROL,doodle,yes,no,no,Paul was doodling a stick man.
+stim146,CONTROL,kill,yes,yes,no,Betty had killed pests.
+stim148,CONTROL,kill,yes,no,no,Sarah was killing pests.
+stim154,CONTROL,knife,yes,yes,no,Clara had knifed a man.
+stim156,CONTROL,knife,yes,no,no,Betty was knifing a man.
+stim162,CONTROL,poison,yes,yes,no,Diana had poisoned a plant.
+stim164,CONTROL,poison,yes,no,no,Paul was poisoning a plant.
+stim170,CONTROL,sign,yes,yes,no,Sean had signed a paper.
+stim172,CONTROL,sign,yes,no,no,Sam was signing a paper.
+stim178,CONTROL,sip,yes,yes,no,Tom had sipped water.
+stim180,CONTROL,sip,yes,no,no,Sean was sipping water.
+stim186,CONTROL,smoke,yes,yes,no,John had smoked a cigarette.
+stim188,CONTROL,smoke,yes,no,no,Sarah was smoking a cigarette.
+stim194,CONTROL,swig,yes,yes,no,John had swigged beer.
+stim196,CONTROL,swig,yes,no,no,Sarah was swigging beer.
+stim202,CONTROL,polish,yes,yes,no,Sam had polished a sword.
+stim204,CONTROL,polish,yes,no,no,Sean was polishing a sword.
+stim210,CONTROL,teach,yes,yes,no,Mary had taught linguistics.
+stim212,CONTROL,teach,yes,no,no,John was teaching linguistics.
+stim218,CONTROL,sing,yes,yes,no,Mary had sung a carol.
+stim220,CONTROL,sing,yes,no,no,Paul was singing a carol.
+stim226,CONTROL,hum,yes,yes,no,Sam had hummed a lullaby.
+stim228,CONTROL,hum,yes,no,no,Sam was humming a lullaby.
+stim234,CONTROL,slice,yes,yes,no,Sean had sliced some pie.
+stim236,CONTROL,slice,yes,no,no,Sarah was slicing some pie.
+stim1,CONTROL,break,yes,yes,yes,Tom had broken a vase again.
+stim3,CONTROL,break,yes,no,yes,Mary was breaking a vase again.
+stim9,CONTROL,build,yes,yes,yes,Diana had built a house again.
+stim11,CONTROL,build,yes,no,yes,Paul was building a house again.
+stim17,CONTROL,chop,yes,yes,yes,Tom had chopped a log again.
+stim19,CONTROL,chop,yes,no,yes,Diana was chopping a log again.
+stim25,CONTROL,clean,yes,yes,yes,Tom had cleaned a table again.
+stim27,CONTROL,clean,yes,no,yes,Sam was cleaning a table again.
+stim33,CONTROL,cook,yes,yes,yes,John had cooked dinner again.
+stim35,CONTROL,cook,yes,no,yes,John was cooking dinner again.
+stim41,CONTROL,cut,yes,yes,yes,Paul had cut some paper again.
+stim43,CONTROL,cut,yes,no,yes,Betty was cutting some paper again.
+stim49,CONTROL,drink,yes,yes,yes,Sam had drunk juice again.
+stim51,CONTROL,drink,yes,no,yes,Tom was drinking juice again.
+stim57,CONTROL,eat,yes,yes,yes,John had eaten pizza again.
+stim59,CONTROL,eat,yes,no,yes,Sean was eating pizza again.
+stim65,CONTROL,embroider,yes,yes,yes,Tom had embroidered a tapestry again.
+stim67,CONTROL,embroider,yes,no,yes,Sam was embroidering a tapestry again.
+stim73,CONTROL,pour,yes,yes,yes,Sam had poured wine again.
+stim75,CONTROL,pour,yes,no,yes,Betty was pouring wine again.
+stim81,CONTROL,sew,yes,yes,yes,John had sewn a curtain again.
+stim83,CONTROL,sew,yes,no,yes,Mary was sewing a curtain again.
+stim89,CONTROL,steal,yes,yes,yes,Betty had stolen money again.
+stim91,CONTROL,steal,yes,no,yes,Mary was stealing money again.
+stim97,CONTROL,wash,yes,yes,yes,Sam had washed a car again.
+stim99,CONTROL,wash,yes,no,yes,Tom was washing a car again.
+stim105,CONTROL,watch,yes,yes,yes,Tom had watched a movie again.
+stim107,CONTROL,watch,yes,no,yes,Sarah was watching a movie again.
+stim113,CONTROL,write,yes,yes,yes,Clara had written a letter again.
+stim115,CONTROL,write,yes,no,yes,Betty was writing a letter again.
+stim121,CONTROL,behead,yes,yes,yes,Diana had beheaded a prisoner again.
+stim123,CONTROL,behead,yes,no,yes,John was beheading a prisoner again.
+stim129,CONTROL,devour,yes,yes,yes,Betty had devoured a roasted chicken again.
+stim131,CONTROL,devour,yes,no,yes,Sarah was devouring a roasted chicken again.
+stim137,CONTROL,doodle,yes,yes,yes,Tom had doodled a stick man again.
+stim139,CONTROL,doodle,yes,no,yes,Tom was doodling a stick man again.
+stim145,CONTROL,kill,yes,yes,yes,Diana had killed pests again.
+stim147,CONTROL,kill,yes,no,yes,Sam was killing pests again.
+stim153,CONTROL,knife,yes,yes,yes,Tom had knifed a man again.
+stim155,CONTROL,knife,yes,no,yes,Sean was knifing a man again.
+stim161,CONTROL,poison,yes,yes,yes,Paul had poisoned a plant again.
+stim163,CONTROL,poison,yes,no,yes,John was poisoning a plant again.
+stim169,CONTROL,sign,yes,yes,yes,Sarah had signed a paper again.
+stim171,CONTROL,sign,yes,no,yes,Betty was signing a paper again.
+stim177,CONTROL,sip,yes,yes,yes,John had sipped water again.
+stim179,CONTROL,sip,yes,no,yes,Mary was sipping water again.
+stim185,CONTROL,smoke,yes,yes,yes,Diana had smoked a cigarette again.
+stim187,CONTROL,smoke,yes,no,yes,Paul was smoking a cigarette again.
+stim193,CONTROL,swig,yes,yes,yes,Mary had swigged beer again.
+stim195,CONTROL,swig,yes,no,yes,Clara was swigging beer again.
+stim201,CONTROL,polish,yes,yes,yes,John had polished a sword again.
+stim203,CONTROL,polish,yes,no,yes,Betty was polishing a sword again.
+stim209,CONTROL,teach,yes,yes,yes,Sean had taught linguistics again.
+stim211,CONTROL,teach,yes,no,yes,Sarah was teaching linguistics again.
+stim217,CONTROL,sing,yes,yes,yes,Mary had sung a carol again.
+stim219,CONTROL,sing,yes,no,yes,Sarah was singing a carol again.
+stim225,CONTROL,hum,yes,yes,yes,John had hummed a lullaby again.
+stim227,CONTROL,hum,yes,no,yes,Sean was humming a lullaby again.
+stim233,CONTROL,slice,yes,yes,yes,Mary had sliced some pie again.
+stim235,CONTROL,slice,yes,no,yes,Mary was slicing some pie again.
+stim5,EXP,break,no,yes,yes,Sam had broken again.
+stim6,EXP,break,no,yes,no,Sarah had broken.
+stim7,EXP,break,no,no,yes,Clara was breaking again.
+stim8,EXP,break,no,no,no,Clara was breaking.
+stim13,EXP,build,no,yes,yes,Paul had built again.
+stim14,EXP,build,no,yes,no,Paul had built.
+stim15,EXP,build,no,no,yes,Paul was building again.
+stim16,EXP,build,no,no,no,Sarah was building.
+stim21,EXP,chop,no,yes,yes,Paul had chopped again.
+stim22,EXP,chop,no,yes,no,Sean had chopped.
+stim23,EXP,chop,no,no,yes,Clara was chopping again.
+stim24,EXP,chop,no,no,no,Sean was chopping.
+stim29,EXP,clean,no,yes,yes,Diana had cleaned again.
+stim30,EXP,clean,no,yes,no,John had cleaned.
+stim31,EXP,clean,no,no,yes,Sarah was cleaning again.
+stim32,EXP,clean,no,no,no,Tom was cleaning.
+stim37,EXP,cook,no,yes,yes,Clara had cooked again.
+stim38,EXP,cook,no,yes,no,Betty had cooked.
+stim39,EXP,cook,no,no,yes,John was cooking again.
+stim40,EXP,cook,no,no,no,Diana was cooking.
+stim45,EXP,cut,no,yes,yes,Tom had cut again.
+stim46,EXP,cut,no,yes,no,Sean had cut.
+stim47,EXP,cut,no,no,yes,Sam was cutting again.
+stim48,EXP,cut,no,no,no,John was cutting.
+stim53,EXP,drink,no,yes,yes,Sarah had drunk again.
+stim54,EXP,drink,no,yes,no,Sarah had drunk.
+stim55,EXP,drink,no,no,yes,Tom was drinking again.
+stim56,EXP,drink,no,no,no,Clara was drinking.
+stim61,EXP,eat,no,yes,yes,Sean had eaten again.
+stim62,EXP,eat,no,yes,no,Betty had eaten.
+stim63,EXP,eat,no,no,yes,Paul was eating again.
+stim64,EXP,eat,no,no,no,Betty was eating.
+stim69,EXP,embroider,no,yes,yes,Paul had embroidered again.
+stim70,EXP,embroider,no,yes,no,Sarah had embroidered.
+stim71,EXP,embroider,no,no,yes,Sam was embroidering again.
+stim72,EXP,embroider,no,no,no,Clara was embroidering.
+stim77,EXP,pour,no,yes,yes,Mary had poured again.
+stim78,EXP,pour,no,yes,no,Tom had poured.
+stim79,EXP,pour,no,no,yes,Betty was pouring again.
+stim80,EXP,pour,no,no,no,Tom was pouring.
+stim85,EXP,sew,no,yes,yes,Mary had sewn again.
+stim86,EXP,sew,no,yes,no,Betty had sewn.
+stim87,EXP,sew,no,no,yes,Tom was sewing again.
+stim88,EXP,sew,no,no,no,Betty was sewing.
+stim93,EXP,steal,no,yes,yes,Sam had stolen again.
+stim94,EXP,steal,no,yes,no,Diana had stolen.
+stim95,EXP,steal,no,no,yes,John was stealing again.
+stim96,EXP,steal,no,no,no,Betty was stealing.
+stim101,EXP,wash,no,yes,yes,Mary had washed again.
+stim102,EXP,wash,no,yes,no,Tom had washed.
+stim103,EXP,wash,no,no,yes,John was washing again.
+stim104,EXP,wash,no,no,no,Paul was washing.
+stim109,EXP,watch,no,yes,yes,Diana had watched again.
+stim110,EXP,watch,no,yes,no,Sam had watched.
+stim111,EXP,watch,no,no,yes,Sarah was watching again.
+stim112,EXP,watch,no,no,no,Betty was watching.
+stim117,EXP,write,no,yes,yes,Tom had written again.
+stim118,EXP,write,no,yes,no,Paul had written.
+stim119,EXP,write,no,no,yes,Diana was writing again.
+stim120,EXP,write,no,no,no,John was writing.
+stim125,EXP,behead,no,yes,yes,Sarah had beheaded again.
+stim126,EXP,behead,no,yes,no,Betty had beheaded.
+stim127,EXP,behead,no,no,yes,Tom was beheading again.
+stim128,EXP,behead,no,no,no,Clara was beheading.
+stim133,EXP,devour,no,yes,yes,Betty had devoured again.
+stim134,EXP,devour,no,yes,no,Paul had devoured.
+stim135,EXP,devour,no,no,yes,Sam was devouring again.
+stim136,EXP,devour,no,no,no,Diana was devouring.
+stim141,EXP,doodle,no,yes,yes,Sam had doodled again.
+stim142,EXP,doodle,no,yes,no,Paul had doodled.
+stim143,EXP,doodle,no,no,yes,Tom was doodling again.
+stim144,EXP,doodle,no,no,no,Sarah was doodling.
+stim149,EXP,kill,no,yes,yes,Tom had killed again.
+stim150,EXP,kill,no,yes,no,Sarah had killed.
+stim151,EXP,kill,no,no,yes,Sam was killing again.
+stim152,EXP,kill,no,no,no,Diana was killing.
+stim157,EXP,knife,no,yes,yes,Sarah had knifed again.
+stim158,EXP,knife,no,yes,no,Diana had knifed.
+stim159,EXP,knife,no,no,yes,John was knifing again.
+stim160,EXP,knife,no,no,no,Tom was knifing.
+stim165,EXP,poison,no,yes,yes,Sean had poisoned again.
+stim166,EXP,poison,no,yes,no,Paul had poisoned.
+stim167,EXP,poison,no,no,yes,Paul was poisoning again.
+stim168,EXP,poison,no,no,no,Mary was poisoning.
+stim173,EXP,sign,no,yes,yes,Mary had signed again.
+stim174,EXP,sign,no,yes,no,John had signed.
+stim175,EXP,sign,no,no,yes,Sarah was signing again.
+stim176,EXP,sign,no,no,no,Betty was signing.
+stim181,EXP,sip,no,yes,yes,Sean had sipped again.
+stim182,EXP,sip,no,yes,no,Betty had sipped.
+stim183,EXP,sip,no,no,yes,John was sipping again.
+stim184,EXP,sip,no,no,no,Paul was sipping.
+stim189,EXP,smoke,no,yes,yes,Tom had smoked again.
+stim190,EXP,smoke,no,yes,no,Diana had smoked.
+stim191,EXP,smoke,no,no,yes,Diana was smoking again.
+stim192,EXP,smoke,no,no,no,Sam was smoking.
+stim197,EXP,swig,no,yes,yes,Sean had swigged again.
+stim198,EXP,swig,no,yes,no,Paul had swigged.
+stim199,EXP,swig,no,no,yes,Sam was swigging again.
+stim200,EXP,swig,no,no,no,Tom was swigging.
+stim205,EXP,polish,no,yes,yes,Betty had polished again.
+stim206,EXP,polish,no,yes,no,Paul had polished.
+stim207,EXP,polish,no,no,yes,Mary was polishing again.
+stim208,EXP,polish,no,no,no,Mary was polishing.
+stim213,EXP,teach,no,yes,yes,Sean had taught again.
+stim214,EXP,teach,no,yes,no,Clara had taught.
+stim215,EXP,teach,no,no,yes,Sarah was teaching again.
+stim216,EXP,teach,no,no,no,Sarah was teaching.
+stim221,EXP,sing,no,yes,yes,Paul had sung again.
+stim222,EXP,sing,no,yes,no,Sam had sung.
+stim223,EXP,sing,no,no,yes,Paul was singing again.
+stim224,EXP,sing,no,no,no,Sam was singing.
+stim229,EXP,hum,no,yes,yes,Diana had hummed again.
+stim230,EXP,hum,no,yes,no,Mary had hummed.
+stim231,EXP,hum,no,no,yes,Tom was humming again.
+stim232,EXP,hum,no,no,no,Sam was humming.
+stim237,EXP,slice,no,yes,yes,John had sliced again.
+stim238,EXP,slice,no,yes,no,Tom had sliced.
+stim239,EXP,slice,no,no,yes,Diana was slicing again.
+stim240,EXP,slice,no,no,no,John was slicing.
+stim246,FILLER,sleep,no,yes,no,John had slept.
+stim248,FILLER,sleep,no,no,no,Diana was sleeping.
+stim254,FILLER,stagger,no,yes,no,Mary had staggered.
+stim256,FILLER,stagger,no,no,no,Clara was staggering.
+stim262,FILLER,knock,no,yes,no,Mary had knocked.
+stim264,FILLER,knock,no,no,no,Betty was knocking.
+stim270,FILLER,limp,no,yes,no,John had limped.
+stim272,FILLER,limp,no,no,no,Clara was limping.
+stim278,FILLER,fast,no,yes,no,Sean had fasted.
+stim280,FILLER,fast,no,no,no,Betty was fasting.
+stim286,FILLER,laugh,no,yes,no,Sam had laughed.
+stim288,FILLER,laugh,no,no,no,Sam was laughing.
+stim294,FILLER,clap,no,yes,no,Mary had clapped.
+stim296,FILLER,clap,no,no,no,Diana was clapping.
+stim302,FILLER,smile,no,yes,no,Sam had smiled.
+stim304,FILLER,smile,no,no,no,Clara was smiling.
+stim310,FILLER,scream,no,yes,no,Paul had screamed.
+stim312,FILLER,scream,no,no,no,Diana was screaming.
+stim318,FILLER,rest,no,yes,no,John had rested.
+stim320,FILLER,rest,no,no,no,Sean was resting.
+stim245,FILLER,sleep,no,yes,yes,Sam had slept again.
+stim247,FILLER,sleep,no,no,yes,Clara was sleeping again.
+stim253,FILLER,stagger,no,yes,yes,Betty had staggered again.
+stim255,FILLER,stagger,no,no,yes,Clara was staggering again.
+stim261,FILLER,knock,no,yes,yes,Sean had knocked again.
+stim263,FILLER,knock,no,no,yes,Sarah was knocking again.
+stim269,FILLER,limp,no,yes,yes,Mary had limped again.
+stim271,FILLER,limp,no,no,yes,Betty was limping again.
+stim277,FILLER,fast,no,yes,yes,John had fasted again.
+stim279,FILLER,fast,no,no,yes,Sarah was fasting again.
+stim285,FILLER,laugh,no,yes,yes,John had laughed again.
+stim287,FILLER,laugh,no,no,yes,Tom was laughing again.
+stim293,FILLER,clap,no,yes,yes,Sarah had clapped again.
+stim295,FILLER,clap,no,no,yes,Paul was clapping again.
+stim301,FILLER,smile,no,yes,yes,Paul had smiled again.
+stim303,FILLER,smile,no,no,yes,Sean was smiling again.
+stim309,FILLER,scream,no,yes,yes,Sarah had screamed again.
+stim311,FILLER,scream,no,no,yes,Tom was screaming again.
+stim317,FILLER,rest,no,yes,yes,Sam had rested again.
+stim319,FILLER,rest,no,no,yes,Betty was resting again.
+stim241,FILLER,sleep,yes,yes,yes,Mary had slept a pillow again.
+stim242,FILLER,sleep,yes,yes,no,Sarah had slept a pillow.
+stim243,FILLER,sleep,yes,no,yes,Mary was sleeping a pillow again.
+stim244,FILLER,sleep,yes,no,no,Sarah was sleeping a pillow.
+stim249,FILLER,stagger,yes,yes,yes,John had staggered the pavement again.
+stim250,FILLER,stagger,yes,yes,no,Paul had staggered the pavement.
+stim251,FILLER,stagger,yes,no,yes,Tom was staggering the pavement again.
+stim252,FILLER,stagger,yes,no,no,Betty was staggering the pavement.
+stim257,FILLER,knock,yes,yes,yes,Betty had knocked a door again.
+stim258,FILLER,knock,yes,yes,no,Diana had knocked a door.
+stim259,FILLER,knock,yes,no,yes,Sarah was knocking a door again.
+stim260,FILLER,knock,yes,no,no,Clara was knocking a door.
+stim265,FILLER,limp,yes,yes,yes,John had limped a road again.
+stim266,FILLER,limp,yes,yes,no,Paul had limped a road.
+stim267,FILLER,limp,yes,no,yes,Paul was limping a road again.
+stim268,FILLER,limp,yes,no,no,Mary was limping a road.
+stim273,FILLER,fast,yes,yes,yes,Sarah had fasted sushi again.
+stim274,FILLER,fast,yes,yes,no,Diana had fasted sushi.
+stim275,FILLER,fast,yes,no,yes,Sam was fasting sushi again.
+stim276,FILLER,fast,yes,no,no,Clara was fasting sushi.
+stim281,FILLER,laugh,yes,yes,yes,Sean had laughed a joke again.
+stim282,FILLER,laugh,yes,yes,no,Betty had laughed a joke.
+stim283,FILLER,laugh,yes,no,yes,John was laughing a joke again.
+stim284,FILLER,laugh,yes,no,no,John was laughing a joke.
+stim289,FILLER,clap,yes,yes,yes,Mary had clapped a show again.
+stim290,FILLER,clap,yes,yes,no,Tom had clapped a show.
+stim291,FILLER,clap,yes,no,yes,Sean was clapping a show again.
+stim292,FILLER,clap,yes,no,no,Mary was clapping a show.
+stim297,FILLER,smile,yes,yes,yes,John had smiled a friend again.
+stim298,FILLER,smile,yes,yes,no,Clara had smiled a friend.
+stim299,FILLER,smile,yes,no,yes,Sean was smiling a friend again.
+stim300,FILLER,smile,yes,no,no,Mary was smiling a friend.
+stim305,FILLER,scream,yes,yes,yes,Tom had screamed a spider again.
+stim306,FILLER,scream,yes,yes,no,Tom had screamed a spider.
+stim307,FILLER,scream,yes,no,yes,Paul was screaming a spider again.
+stim308,FILLER,scream,yes,no,no,Paul was screaming a spider.
+stim313,FILLER,rest,yes,yes,yes,Tom had rested a bed again.
+stim314,FILLER,rest,yes,yes,no,Betty had rested a bed.
+stim315,FILLER,rest,yes,no,yes,Mary was resting a bed again.
+stim316,FILLER,rest,yes,no,no,Betty was resting a bed.
