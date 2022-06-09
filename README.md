@@ -31,4 +31,4 @@ Data for my PhD dissertation
   ### Stimuli
   eng and ita csv files (stimuli for Medina experiment)
   ### Judgments
-  full judgments provided by 30 people (per language) on a 7-point Likert scale
+  full judgments provided by 30 people (per language) on a 7-point Likert scale for TARGET sentences
