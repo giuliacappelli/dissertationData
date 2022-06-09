@@ -50,7 +50,4 @@ This project is licensed under the MIT License.
 * Medina, Tamara Nicol (2007). Learning which verbs allow object omission: verb semantic selectivity and the implicit object construction (PhD dissertation, Johns Hopkins University).
 
 ## Acknowledgments
-Many thanks to 
-* @ellepannitto, my Python fairy
-* @najoungkim, for sharing references that ultimately led to this project
-* the Stack Overflow community, for the many code snippets that saved me from frustration
+Many thanks to @najoungkim, for sharing references that ultimately led to this project
