@@ -1,6 +1,13 @@
 # dissertationData
 Data for my PhD dissertation
 
+## Verbs
+
+  ### Matching English and Italian verbs
+  target and filler verbs, single csv file
+  ### Target verbs
+  two csv files for English and Italian, each verb with corpus frequency and Zipf score
+
 ## Corpus dObjs
 
   ### Raw nouns
