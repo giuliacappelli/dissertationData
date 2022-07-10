@@ -39,6 +39,8 @@ Data for my PhD dissertation
   Stimuli used in the behavioral experiments eliciting acceptability judgments about the implicit object construction in English and Italian (2 csv files)
   ### Judgments
   Full judgments provided by 30 people (per language) on a 7-point Likert scale for target sentences
+  ### Errors
+  Squared errors: distance between actual judgments and values predicted by the (full bPISA) model in English and Italian (2 csv files)
 
 __________
 
